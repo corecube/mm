@@ -3,6 +3,7 @@
 ## Intro
 
 c1: Dm7  Bb  F  Fsus2
+
 c1: Dm7  Bb  F  Fsus2
 
 
@@ -54,6 +55,7 @@ l1:   Oh take me back to the start
 ## Interlude
 
 c1: F   Bb  F  F
+
 c1: Dm7 Bb  F  Fsus2
 
 
@@ -105,6 +107,7 @@ l1:   I'm going back to the start
 ## Instrumental
 
 c1: F   Bb  F  F
+
 c1: Dm7 Bb  F  F
 
 
