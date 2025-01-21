@@ -4,18 +4,25 @@ Guitar transpose capo 1
 
 # Intro
 c1: Eb  Bbm  Bbm  Fm
+
 c1: Eb  Bbm  Bbm  Fm
+
 c1: Eb  Bbm  Bbm  Fm
+
 c1: Eb  Bbm  Bbm  Fm
+
 c1: Eb  Bbm  Bbm  Fm
 
 ## Verse 1
 c1: Eb                   Bbm                                    Fm
 l1: Lights go out and I can't be saved, tides that I tried to swim against
+
 c1: Eb                Bbm                        Fm
 l1: Brought me down upon my knees, oh I beg, I beg and plead - singing
+
 c1: Eb                 Bbm                            Fm
 l1:   Come out of the things unsaid, shoot an apple off my head - and a
+
 c1: Eb              Bbm                             Fm
 l1:   Trouble that can't be named, tigers waiting to be tamed - singing
 
@@ -24,6 +31,7 @@ c1: Eb      Bbm      Bbm      Fm      Eb      Bbm      Bbm      Fm
 l1:      You              are           You              are
 
 c1: Eb  Bbm  Bbm  Fm
+
 c1: Eb  Bbm  Bbm  Fm
 
 ## Verse 2
@@ -65,8 +73,11 @@ l1:       And nothing else compares
 
 ## Hook (Piano Riff)
 c1: Eb  Bbm  Bbm  Fm
+
 c1: Eb  Bbm  Bbm  Fm
+
 c1: Eb  Bbm  Bbm  Fm
+
 c1: Eb  Bbm  Bbm  Fm
 
 c1: Eb      Bbm      Bbm      Fm      Eb      Bbm      Bbm      Fm
@@ -89,4 +100,5 @@ c1: Eb  Bbm  Bbm  Fm
 l1:    You  are
 
 c1: Eb  Bbm  Bbm  Fm
+
 c1: Eb  Bbm  Bbm  Fm
