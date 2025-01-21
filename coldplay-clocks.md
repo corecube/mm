@@ -1,6 +1,6 @@
 # Coldplay - Clocks
 
-Guitar transpose capo 1
+Guitar: transpose -1, capo 1
 
 # Intro
 c1: Eb  Bbm  Bbm  Fm
