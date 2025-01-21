@@ -1,4 +1,4 @@
-# The Scientist Coldplay
+# Coldplay - The Scientist
 
 :::abc
 X: 1
