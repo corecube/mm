@@ -7,7 +7,7 @@ M: 4/4
 L: 1/4
 K: F
 V:1
-"Dm" [CDEG][CDEG][CDEG][CDEG]| "Bb" [DFB][DFB][DFB][DFB]/2[cC]/2 | "F" [CFA][CFA][CFA][CFA] | "Fsus2" [CFG][CFG][CFG][CFG] |
+"Dm" [CDFA][CDFA][CDFA][CDFA]| "Bb" [DFB][DFB][DFB][DFB]/2[cC]/2 | "F" [CFA][CFA][CFA][CFA] | "Fsus2" [CFG][CFG][CFG][CFG] |
 V:2 clef=bass
 d,,/2 d,,/2 d,,/2 d,,/2 d,,/2 d,,/2 d,,/2 d,,/2
 :::
