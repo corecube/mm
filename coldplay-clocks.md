@@ -2,6 +2,17 @@
 
 Guitar: transpose -1, capo 1
 
+:::abc
+X: 1
+M: 4/4
+L: 1/4
+K: Eb
+V:1
+"Eb" e/2b,/2g,/2e/2 b,/2g,/2e/2b,/2 | "Bbm" _d/2b,/2f,/2d/2 b,/2f,/2d/2b,/2 | _d/2b,/2f,/2d/2 b,/2f,/2d/2b,/2 | c/2a,/2f,/2c/2 a,/2f,/2c/2a,/2
+V:2 clef=bass
+e,/2b,,/2g,,/2e,/2 b,,/2g,,/2e,/2b,,/2 | "Bbm" _d,/2b,,/2f,,/2d,/2 b,,/2f,,/2d,/2b,,/2 | _d,/2b,,/2f,,/2d,/2 b,,/2f,,/2d,/2b,,/2 | c,/2a,,/2f,,/2c,/2 a,,/2f,,/2c,/2a,,/2
+:::
+
 # Intro
 c1: Eb  Bbm  Bbm  Fm
 
