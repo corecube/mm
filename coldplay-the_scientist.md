@@ -135,5 +135,5 @@ c1: Dm7  Bb      F   F
 l1:  Oooh   oooohh
 
 c1: Dm7  Bb      F
-l1:   Oooh  oooohh"""
+l1:   Oooh  oooohh
 
