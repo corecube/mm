@@ -2,14 +2,13 @@
 
 :::abc
 X: 1
-T: Chord Progression
 M: 4/4
 L: 1/4
 K: F
 V:1
 "Dm7" [CDFA][CDFA][CDFA][CDFA]| "Bb" [DFB][DFB][DFB][DFB]/2[cC]/2 | "F" [CFA][CFA][CFA][CFA] | "Fsus2" [CFG][CFG][CFG][CFG] |
 V:2 clef=bass
-d,,/2 d,,/2 d,,/2 d,,/2 d,,/2 d,,/2 d,,/2 d,,/2
+d,,/2d,,/2d,,/2d,,/2 d,,/2d,,/2d,,/2d,,/2 | b,,,/2b,,,/2b,,,/2b,,,/2 b,,,/2b,,,/2b,,,/2b,,,/2 | f,,,/2f,,,/2f,,,/2f,,,/2 f,,,/2f,,,/2f,,,/2f,,,/2 | f,,,/2f,,,/2f,,,/2f,,,/2 f,,,/2f,,,/2f,,,/2f,,,/2 |
 :::
 
 
