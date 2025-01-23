@@ -21,7 +21,7 @@ c1: Dm7  Bb  F  Fsus2
 
 ## Verse 1
 
-c1: Dm7          Bb             ya     F
+c1: Dm7          Bb                    F
 l1:   Come up to meet you, tell ya I'm sorry
 
 c1:                    Fsus2
