@@ -21,8 +21,8 @@ c1: Dm7  Bb  F  Fsus2
 
 ## Verse 1
 
-c1: Dm7          Bb                     F
-l1:   Come up to meet you, tell you I'm sorry
+c1: Dm7          Bb             ya     F
+l1:   Come up to meet you, tell ya I'm sorry
 
 c1:                    Fsus2
 l1: You don't know how lovely you are
@@ -57,16 +57,16 @@ l1: It's such a shame for us to part
 c1: Bb                        F
 l1:   Nobody said it was easy
 
-c1:             C/F           Fsus2    C
+c1:             Fsus2                  C
 l1: No one ever said it would be this hard
 
-c1: C/G
+c1:                            F
 l1:   Oh take me back to the start
 
 
 ## Interlude
 
-c1: F   Bb  F  F
+c1:     Bb  F  F
 
 c1: Dm7 Bb  F  Fsus2
 
@@ -109,16 +109,16 @@ l1: Oh it's such a shame for us to part
 c1: Bb                       F
 l1:   Nobody said it was easy
 
-c1:             C/F           Fsus2  C
+c1:             Fsus2                C
 l1: No one ever said it would be so hard
 
-c1: C/G
+c1:                           F
 l1:   I'm going back to the start
 
 
 ## Instrumental
 
-c1: F   Bb  F  F
+c1:     Bb  F  F
 
 c1: Dm7 Bb  F  F
 
